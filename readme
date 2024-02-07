@@ -1,0 +1,2 @@
+# STEP 1 : Run " npm i " for  install all the dependince
+# STEP 2 : Run " node index.js iw-tech-test-retailer-data.xlsx " for get the data fron given file here iw-tech-test-retailer-data.xlsx is the file name 
